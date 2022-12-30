@@ -197,7 +197,7 @@
 <!-- CONTACTO -->
   <a name="contacto"></a>
   ## 📩 Contacto
-  Si deseas contactarte conmigo podes hacerlo mediante mensajito a: 
+  Si deseas contactarte conmigo podes hacerlo mediante mensaje privado a: 
   **[Instagram ](https://instagram.com/einenko) - [Github ](https://github.com/jc-projects)** 
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
