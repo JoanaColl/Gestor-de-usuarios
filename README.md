@@ -1,6 +1,6 @@
 <!-- TÍTULO Y DESCRIPCIÓN -->
   <a name="ir-arriba"></a>
-  # 💻 Codo a Codo Spring Boot TP Final
+  # 💻 Gestor de usuarios
 
   Trabajo Práctico Final para el curso **Codo a Codo Java Spring Boot 2022**
   <div align="center">
@@ -190,15 +190,20 @@
 <!-- DESARROLLADO POR -->
   <a name="desarrollado"></a>
   ## 💁 Desarrollado por...
-  * **Joana Coll** - [jc-projects](https://github.com/jc-projects)
+  * **Joana Coll** - [joana-coll](https://github.com/joana-coll)
   
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
 <!-- CONTACTO -->
   <a name="contacto"></a>
   ## 📩 Contacto
-  Si deseas contactarte conmigo podes hacerlo mediante mensaje privado a: 
-  **[Instagram ](https://instagram.com/einenko) - [Github ](https://github.com/jc-projects)** 
+  Si deseas contactarte conmigo:
+  <a href="https://ar.linkedin.com/in/joana-coll" target="_blank">
+  <img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/linkedin.svg" alt="Github" height="30" />
+  </a>
+  <a href="mailto:colljoana@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/envelope-solid.svg" alt="Github" height="30" />
+  </a>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 <!-- AGRADECIMIENTO -->
