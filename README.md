@@ -69,7 +69,7 @@
   Si deseas correr la aplicación en un entorno local debes tener en cuenta lo siguiente: 
   1. Clona el repositorio utilizando GIT o descargando el archivo ZIP:
 
-      `git clone https://github.com/jc-projects/CodoACodo_SpringBoot_TP_Final.git`
+      `git clone https://github.com/joana-coll/Gestor-de-usuarios.git`
   
   2. El proyecto viene configurado para ejecutarse en el entorno de desarrollo y utilizar los endpoint. Si deseas probar los tests debes modificar el archivo `application.yml` y reemplazar `local` por `integration_test`
   
